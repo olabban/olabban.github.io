@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Omar Labban</title>
-    <link>https://www.mit.edu/~olabban/publication_types/2/</link>
+    <link>http://www.mit.edu/~olabban/publication_types/2/</link>
     <description>Recent content in 2 on Omar Labban</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.mit.edu/~olabban/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.mit.edu/~olabban/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Design and Modeling of Novel Low-Pressure Nanofiltration Hollow Fiber Modules for Water Softening and Desalination Pretreatment</title>
-      <link>https://www.mit.edu/~olabban/publication/paper1/</link>
+      <link>http://www.mit.edu/~olabban/publication/paper1/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mit.edu/~olabban/publication/paper1/</guid>
+      <guid>http://www.mit.edu/~olabban/publication/paper1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relating transport modeling to nanofiltration membrane fabrication: Navigating the permeability-selectivity trade-off in desalination pretreatment</title>
-      <link>https://www.mit.edu/~olabban/publication/paper2/</link>
+      <link>http://www.mit.edu/~olabban/publication/paper2/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mit.edu/~olabban/publication/paper2/</guid>
+      <guid>http://www.mit.edu/~olabban/publication/paper2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Next-generation HVAC: Prospects for and limitations of desiccant and membrane-based dehumidification and cooling</title>
-      <link>https://www.mit.edu/~olabban/publication/paper3/</link>
+      <link>http://www.mit.edu/~olabban/publication/paper3/</link>
       <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mit.edu/~olabban/publication/paper3/</guid>
+      <guid>http://www.mit.edu/~olabban/publication/paper3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundamentals of low-pressure nanofiltration: Membrane characterization, modeling, and understanding the multi-ionic interactions in water softening</title>
-      <link>https://www.mit.edu/~olabban/publication/paper4/</link>
+      <link>http://www.mit.edu/~olabban/publication/paper4/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.mit.edu/~olabban/publication/paper4/</guid>
+      <guid>http://www.mit.edu/~olabban/publication/paper4/</guid>
       <description></description>
     </item>
     
