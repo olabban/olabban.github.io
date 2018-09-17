@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://www.mit.edu/~olabban/home/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>http://www.mit.edu/~olabban/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>http://www.mit.edu/~olabban/home/hero_carousel/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>
@@ -27,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>http://www.mit.edu/~olabban/home/about/</guid>
-      <description>About Me Omar Labban is a Ph.D. Candidate in Mechanical Engineering at the Massachusetts Institute of Technology.</description>
+      <description>About Me Omar Labban is a Ph.D. Candidate in Mechanical Engineering interested in the application of science and engineering to challenges of real-world concern.</description>
     </item>
     
     <item>
@@ -40,7 +31,34 @@
     </item>
     
     <item>
+      <title>In the Press</title>
+      <link>http://www.mit.edu/~olabban/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~olabban/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Design Project</title>
+      <link>http://www.mit.edu/~olabban/home/selected_projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~olabban/home/selected_projects/</guid>
+      <description>Conducted in a team of three, the project&amp;rsquo;s aim was to design, prototype and test a marine vehicle with hydrofoils, reducing drag.</description>
+    </item>
+    
+    <item>
       <title></title>
+      <link>http://www.mit.edu/~olabban/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.mit.edu/~olabban/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Awards</title>
       <link>http://www.mit.edu/~olabban/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
@@ -67,31 +85,12 @@
     </item>
     
     <item>
-      <title>Recent Posts</title>
+      <title>In the News</title>
       <link>http://www.mit.edu/~olabban/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>http://www.mit.edu/~olabban/home/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.mit.edu/~olabban/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>http://www.mit.edu/~olabban/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In the News</title>
-      <link>http://www.mit.edu/~olabban/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>http://www.mit.edu/~olabban/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>
